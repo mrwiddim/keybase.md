@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am mrwiddim on github.
+  * I am analbum (https://keybase.io/analbum) on keybase.
+  * I have a public key ASBIJc2r1KRQibJ107I9eP2C4FqhEw33BYOf_ymufAYzmwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204825cdabd4a45089b275d3b23d78fd82e05aa1130df705839fff29ae7c06339b0a",
+      "host": "keybase.io",
+      "kid": "01204825cdabd4a45089b275d3b23d78fd82e05aa1130df705839fff29ae7c06339b0a",
+      "uid": "e99fd68f630e05fc99dc4649e85b5c19",
+      "username": "analbum"
+    },
+    "merkle_root": {
+      "ctime": 1568844322,
+      "hash": "a915ac7c656b1fdb3a578589f5a8dc9c1e10509a2092de46935dc33ec4b0efeb9fd28c064b24ffe2186dfd999d576f27b318eea251420f03058b8952752cac7d",
+      "hash_meta": "47cc0fe404e95ed7b888fc2243ff2d0ee6e88cbab31ddb393cf6185ba831c30e",
+      "seqno": 7580494
+    },
+    "service": {
+      "entropy": "IFjZWlmgCooKXJzALzR2bqfu",
+      "name": "github",
+      "username": "mrwiddim"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568844330,
+  "expire_in": 504576000,
+  "prev": "bc8496df7ddd976f0f6d7ad69021d94209531890e7968a39aba17e6044127131",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASBIJc2r1KRQibJ107I9eP2C4FqhEw33BYOf_ymufAYzmwo](https://keybase.io/analbum), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSCXNq9SkUImyddOyPXj9guBaoRMN9wWDn/8prnwGM5sKp3BheWxvYWTESpcCBcQgvISW333dl28PbXrWkCHZQglTGJDnloo5q6F+YEQScTHEIL5GKb8rfwtND/QWwvXaXG5U3ZpPYtKAZeWLT66XqNeJAgHCo3NpZ8RAmHnIyx+h/WLc0cVRf+q3MYeBldp4UEJPJPhf2X8qBnxdn3nwQkYXOoCnV75nEK+oTHGWAr5y71vh5coAmkH8DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJXUelydhbEVLOO2XOzgpfloYs1+PvQwlcPrNA1/FpWvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/analbum
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id analbum
+```
